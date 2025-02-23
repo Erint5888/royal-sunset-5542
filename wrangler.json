@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "royal-sunset-5542",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "63ed9cef-c6ff-4998-944a-313d40ee4c53",
+      "database_name": "late-dream-1a5f-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
